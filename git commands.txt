@@ -1,0 +1,3 @@
+git branch graphics  //creates a new branch called graphics
+git checkout graphics  //changes current branch
+git merge [branch name]  //merge whatever branch you are in with the [branch name]
