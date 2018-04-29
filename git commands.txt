@@ -1,3 +1,13 @@
 git branch graphics  //creates a new branch called graphics
 git checkout graphics  //changes current branch
 git merge [branch name]  //merge whatever branch you are in with the [branch name]
+
+clone [link] 				//te clona un repository locally so u can work on it
+status	
+log (-2) 				//-2 enseña los ultimos 2 commits
+commit (-a) -m "message" 		//-a añade todos los cambios al commit
+push origin(remote) master(branch)	// push local commits to github(remote)
+pull
+remote (-v)
+init					//create new repo in local directory
+add [file]				//add files to track (. adds all)
